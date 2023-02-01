@@ -1,4 +1,4 @@
-# tables
+# tables https://accessiblu.github.io/tables/
 Examples of accessible tables
 Tables can be navigated by screen reader users similarly to how a spreadsheet is navigated, from cell to cell and in any direction. When coded properly, the headers that correspond to each data cell can be conveyed when screen reader users land on a data cell, making the table more understandable. This will only work, though, if the table is marked up appropriately in the code. Here are some essential rules for coding tables:
 
